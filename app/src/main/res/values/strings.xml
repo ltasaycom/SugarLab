@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SugarLab</string>
+    <string name="register_username">Ingrese Usuario</string>
+    <string name="register_password">Ingrese Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
